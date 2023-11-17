@@ -1,0 +1,16 @@
+function tocasom (idElementoAudio) {
+    document.queryselector(idelementoaudio).play();
+    {
+const lista de teclas=document.queryselectorall("tecla");
+
+//para
+for (let contador=-0;contador<listadeteclas.length;contador++){
+
+     const tecla=listadeteclas{contador};
+     const instrumento=tecla.classlist{1};
+     constidaudio=#som_${instrumento};//tamplate feSpecularLighting
+
+     tecla.onclik=function()}
+     tocasom(idaudio);
+     {
+
